@@ -1,12 +1,26 @@
 # AlgoBank: A High-Performance, Multi-Threaded Banking System in C++
 
-   
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B)
+![Build](https://img.shields.io/badge/Build-Makefile-4E9A06?style=for-the-badge&logo=gnu)
+![Architecture](https://img.shields.io/badge/Architecture-Client%20%7C%20Server-blueviolet?style=for-the-badge)
+![Concepts](https://img.shields.io/badge/Concepts-DSA%20%7C%20Concurrency-orange?style=for-the-badge)
 
 ## Executive Summary
 
 AlgoBank is an exemplary C++ project that demonstrates a strong, practical command of fundamental computer science principles. This project implements a **multi-threaded, client-server architecture** to simulate a real-world banking application. It showcases not only a deep understanding of various data structures and algorithms but also a thoughtful approach to system design, scalability, and modularity.
 
 The core strength of this project lies in its **justification of technology**. Each feature is powered by a deliberately chosen data structure, and the rationale behind each choice is sound, reflecting an ability to map theoretical knowledge to practical problem-solving. The separation of the core banking logic from the network-facing server and the user-facing client demonstrates a mature understanding of software engineering principles like **separation of concerns**.
+
+-----
+## 🧠 Project Evolution
+
+This is a complete rewrite of the original [AlgoBank](https://github.com/AkshayTiwari27/AlgoBank.git), which was a CLI-based single-user system.
+
+Key improvements:
+- ✅ Introduced TCP networking for multi-device communication
+- ✅ Added multithreading to handle concurrent client requests
+- ✅ Implemented server-side concurrency safety with mutexes
+- ✅ Added advanced DSA features like Trie, DFS, DSU, etc.
 
 -----
 
