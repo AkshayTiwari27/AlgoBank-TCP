@@ -20,7 +20,6 @@ Key improvements:
 - ✅ Introduced TCP networking for multi-device communication
 - ✅ Added multithreading to handle concurrent client requests
 - ✅ Implemented server-side concurrency safety with mutexes
-- ✅ Added advanced DSA features like Trie, DFS, DSU, etc.
 
 -----
 
